@@ -1,3 +1,9 @@
 {
-    "codetour.showMarkers": false
+    "codetour.showMarkers": false,
+    "staticWebApps.appSubpath": "/",
+    "staticWebApps.apiSubpath": "/",
+    "staticWebApps.outputSubpath": "build",
+    "files.associations": {
+        "*.html": "html"
+    }
 }
